@@ -1,0 +1,32 @@
+.wrapper {
+    margin: auto;
+    width: 90%;
+    background-color: rgb(228, 201, 167);
+    padding: 15px;
+}
+
+body {
+    background-color: rgb(215, 173, 123);
+}
+
+img {
+   max-width: 150px;
+   width: 100%;
+   height: auto;
+   float: left;
+   padding-right: 10px;
+}
+
+
+dl {
+    clear: left;
+}
+
+dt {
+    font-weight: bold;
+    font-size: 1.15rem;
+}
+
+dd {
+    margin-left: 0;
+}
