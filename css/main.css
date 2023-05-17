@@ -7,6 +7,7 @@
 
 body {
     background-color: rgb(215, 173, 123);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 img {
@@ -29,4 +30,8 @@ dt {
 
 dd {
     margin-left: 0;
+}
+
+h1,dl {
+    background-color: rgb(175, 148, 115);
 }
